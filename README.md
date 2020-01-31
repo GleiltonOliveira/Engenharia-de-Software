@@ -346,12 +346,12 @@
     - World's Fastest Password Cracker
        - [HashCat](https://hashcat.net/hashcat/)
        - [HashKiller](https://hashkiller.co.uk/md5-decrypter.aspx)
-    - Recommended Data Encryption
+    - Encriptação Recomendada
        - [Argon2](https://github.com/P-H-C/phc-winner-argon2)
        - [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2)
        - [Scrypt](https://en.wikipedia.org/wiki/Scrypt)
        - [BCrypt](https://en.wikipedia.org/wiki/Bcrypt)
-    - NOT RECOMMENDED :skull:
+    - Não Recomendado :skull:
        - [MD5](https://pt.wikipedia.org/wiki/MD5)
        - [SHA1](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
        - [SHA2](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
