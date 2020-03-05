@@ -1,4 +1,4 @@
-## References
+## Referências
 
  - Sites
      - [W3 School SQL](https://www.w3schools.com/sql/)
